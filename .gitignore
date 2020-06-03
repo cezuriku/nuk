@@ -2,6 +2,7 @@
 *.kdev4
 *.plt
 .erlang.mk
+_build
 _rel
 cover
 deps
@@ -11,3 +12,4 @@ logs
 nuk.d
 relx
 test/*.beam
+rebar.lock
